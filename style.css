@@ -1,0 +1,63 @@
+.home-img {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./images/photo-1548426589-b5560481a46e.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tele-section {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 3em;
+    font-weight: 100;
+}
+
+.tele-info-box {
+    width: 70vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.tele-para {
+    color: white;
+    width: 40em;
+    padding-right: 3em;
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+.tele-main-img {
+    height: 70vh;
+}
+
+.all-products {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(238, 130, 238, 0.601);
+}
+
+.brand {
+    color: black;
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 3em;
+    font-weight: 100;
+    border-bottom: 1px black solid;
+}
+
+footer {
+    height: 25vh;
+    width: 100vw;
+    background-color: whitesmoke;
+}
