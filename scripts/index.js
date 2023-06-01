@@ -57,7 +57,7 @@ Object.entries(parsedGuitars).forEach((guitarType) => {
     });
 });
 
-const firstAcousticGuitar = parsedGuitars.acoustic[0];
+/* const firstAcousticGuitar = parsedGuitars.acoustic[0];
 console.log(firstAcousticGuitar);
 
 
@@ -73,6 +73,6 @@ if (firstAcousticGuitar.idNum === acousticOne.id) {
       </div>                
     `;
     acousticOne.insertAdjacentHTML("afterbegin", guitOneInfo);
-}
+} */
 
 
